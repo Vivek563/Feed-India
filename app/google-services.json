@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "532541005941",
+    "project_id": "feed-india-fbaa4",
+    "storage_bucket": "feed-india-fbaa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532541005941:android:bbaa01a79fa3b1a961583c",
+        "android_client_info": {
+          "package_name": "com.vivek.feedindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532541005941-v7kfm6lf540hpp6nicfk8uephn1erruj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgTA5JzVa8jp4q-TKaQLdtm-FWB4Dm_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532541005941-v7kfm6lf540hpp6nicfk8uephn1erruj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532541005941-emgi1g9j3b8lsrjmh1onsmhtsapp1ihh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vivek.feedindia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

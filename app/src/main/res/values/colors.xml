@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#EFCB95</color>
+    <color name="purple_700">#EFCB95</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#11CFC5</color>
+
+
+
+    <!-->  added colour -->
+    <color name="color1">#EFCB95</color>
+    <color name="color2">#7e455e</color>
+    <color name="color3">#796e25</color>
+    <color name="color4">#59717c</color>
+    <color name="color5">#6EC3E8</color>
+    <color name="color6">#FCD391</color>
+    <color name="color7">#EFCB95</color>
+
+    <color name="login_bk_color">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+
+    <color name="darkTextColor">#020000</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+
+
+    <color name="card">#C70D0D</color>
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+
+    <color name="whiteTextColor">#fff</color>
+
+
+    <color name="black_transparent">#CC003366</color>
+    <color name="bottomNavigationTextColor">#222121</color>
+    <color name="nav_bar_color">#EFAB45</color>
+    <color name="grey_light">#59CFCFCF</color>
+    <color name="frutorial_title">#4c4c4c</color>
+    <color name="contentBodyColor">#EFCB95</color>
+
+
+
+    <color name="grey">#808080</color>
+    <color name="yellow">#F8BA0F</color>
+    <color name="goodgrey">#0B0A0A</color>
+    <color name="blue">#293859</color>
+    <color name="lightgrey">#EEEEEE</color>
+    <!--<color name="ucrop_color_statusbar">@color/teal_700</color>-->
+    <!--<color name="ucrop_color_widget_active">@color/teal_500</color>-->
+    <color name="back_courses">#F4EFEF</color>
+</resources>

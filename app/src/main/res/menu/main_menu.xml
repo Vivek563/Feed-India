@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/donate"
+            android:icon="@drawable/donate"
+            android:title="Donate Food" />
+
+        <item
+            android:id="@+id/recieve"
+            android:icon="@drawable/receiev"
+            android:title="Receive Food" />
+
+
+
+    </group>
+
+    <!--
+        <item android:title="About ">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+
+
+                    <item
+                        android:id="@+id/about"
+                        android:icon="@drawable/about"
+                        android:title="About us" />
+
+
+                </group>
+            </menu>
+        </item>
+
+        <item
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="Reward">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+
+                    <item
+                        android:id="@+id/reward"
+                        android:icon="@drawable/ic_baseline_star_24"
+                        android:title="Rewared Point" />
+
+
+                </group>
+            </menu>
+        </item>
+
+        <item android:title="Communicate">
+
+            <menu>
+
+                <item
+                    android:id="@+id/developer"
+                    android:icon="@drawable/ic_baseline_computer_24"
+                    android:title="Developer Contact" />
+
+                           <item
+                               android:id="@+id/editprofile"
+                               android:icon="@drawable/ic_baseline_edit_24"
+                               android:title="Edit Profile" />
+
+                           <item
+                               android:id="@+id/nav_rate"
+                               android:icon="@drawable/ic_baseline_star_24"
+                               android:title="Rate Us" />
+        -->
+
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="About us"/>
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="Logout"/>
+
+    </group>
+</menu>
+
+
+
+
+
+
+
+
+
+
+
